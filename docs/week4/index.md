@@ -39,10 +39,12 @@ Dokumentieren.
 ## Ressourcen zum Thema UML (zum Selbststudium)
 
 Arbeiten Sie folgende Materialien durch, um sich mit der UML vertraut zu machen.
+
 <!--
 * Einführung in die UM. ([Video](https://unibas.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8c8cffc1-41ce-442c-b391-b06600bd5a47), [Slides](./slides/UML-Klassendiagramme.pdf))
 *  Spezifizieren mit der UML. ([Video](https://unibas.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4132b7e1-6433-4f9c-b854-b07000f6fd82) [Slides](./slides/UML.pdf))
 -->
+
 * Buchauszug "UML-Distilled" zum Thema Klassendiagramme ([Artikel (auf Adam)](https://adam.unibas.ch/go/file/2118354/download)). Lesen Sie die Seiten 1-18, 21-22
 *  Buchauszug "UML-Distilled" zum Thema Sequenzdiagramme ([Artikel (auf Adam)](https://adam.unibas.ch/go/file/2118355/download)). Lesen Sie die Seiten 1-5 sowie die Seiten 11-13.
 * Buchauszug "UML-Distilled" zum Thema Activity-diagrams ([Artikel (auf Adam)](https://adam.unibas.ch/go/file/2118353/download)). Lesen Sie die Seiten 1-5 sowie die Seite 14.
