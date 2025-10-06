@@ -36,7 +36,7 @@ Dokumentieren.
     * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2118351/download)
 
 
-## Artikel und Videos zum Thema UML (zum Selbststudium)
+## Ressourcen zum Thema UML (zum Selbststudium)
 
 Arbeiten Sie folgende Materialien durch, um sich mit der UML vertraut zu machen.
 <!--
