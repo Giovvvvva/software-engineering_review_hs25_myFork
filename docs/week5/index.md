@@ -6,7 +6,7 @@ title : Woche 5
 # Woche 5: Modularität und Design 
 
 In dieser Woche beschäftigen wir uns mit der Architektur und dem Design von Software. 
-Im Zentrum stehen dabei der Begriff der Modularität und das Ziel, eine Tiefe Koppelung und hohe Kohäsion zu erreichen. Wir werden verschiedene Modulbeziehungen diskutieren, und uns dann verschiedene Wichtige Architekturpatterns anschauen. Zum Schluss führen wir ein erstes Design Pattern ein. 
+Im Zentrum stehen dabei der Begriff der Modularität und das Ziel, eine Tiefe Kopplung und hohe Bindung zu erreichen. Wir werden verschiedene Modulbeziehungen diskutieren, und uns dann verschiedene Wichtige Architekturpatterns anschauen. Zum Schluss führen wir ein erstes Design Pattern ein. 
 
 ## Lernziele 
 
@@ -17,7 +17,7 @@ Die Studierenden
 - kennen die Vorteile, die durch Zerlegung eines Systems in Module erreicht werden können.
 - können Modulbeziehungen formal beschreiben und können Hierarchien, Transitive Abhängigkeiten und Ebenen anhand des entsprechenden DAGs erklären.
 - kennen das Prinzip des Information Hiding und wissen wie es in Java umgesetzt werden kann. 
-- können designs anhand von Kriterien wie Bindung, Kopplung, Fan-In, Hierarchien, etc. analysieren.
+- können Designs anhand von Kriterien wie Bindung, Kopplung, Hierarchien, etc. analysieren.
 - kennen die Architekturmuster Layering, Pipeline, Blackboard und MVC, MVVM und können diese erklären.	
 - kennen das Design Pattern Observer und können erklären, wie es bei der Blackboard und MVC Architektur eingesetzt werden könnte. 
 
@@ -34,7 +34,7 @@ Die Studierenden
 ## Vorlesungsslides
 
 * Modularität und Design
-    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/goto_adam_file_1903037_download.html) <!--auf adam noch nicht gefunden -->
+    * Slides (Auf Adam): [pdf](https://adam.unibas.ch/go/file/2122422/download)
 
 
 ## Hausaufgaben
